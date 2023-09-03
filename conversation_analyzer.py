@@ -1,4 +1,4 @@
-import threading
+
 from nltk.sentiment import SentimentIntensityAnalyzer
 import os
 from datetime import datetime
