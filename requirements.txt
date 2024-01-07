@@ -1,0 +1,6 @@
+python-telegram-bot==13.7
+nltk==3.6.6
+spacy==3.2.1
+openai==0.27.0
+ibm-watson==5.11.0
+python-dotenv==0.19.5
